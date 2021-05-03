@@ -1,0 +1,62 @@
+body    {
+    background-image: url(https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2015%2F08%2FScreenshot-2015-08-14-12.39.36.png&signature=de8c4449435e15a6ed7503bae6d88f21);
+    color: white;
+}
+
+#content {
+    background-color: #201A18;
+    height: 80%;
+    width: 90%;
+    line-height: 2;
+    margin-left: 2%;
+    padding: 2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h1 {
+    /* background-color: #FF6185; */
+    background-color: #F8F139;
+    color: black;
+    padding: 1px 6px;
+    display: inline;
+}
+
+h1:hover {
+    color: #FF6185;
+}
+
+blockquote {
+    color: #FF6185;
+}
+
+blockquote:hover {
+    color: #F8F139;
+}
+
+.citation {
+    color: #05697F;
+}
+
+.list {
+    background-color: #05697F;
+    display: inline;
+    margin: 10px;
+}
+
+ol li {
+    color: #F8F139;
+}
+
+ol li:hover {
+    color: #FF6185;
+}
+
+
+
+
+/* footer section */
+#link {
+    color: #F8F139;
+    text-decoration: none;
+}
+
