@@ -1,0 +1,48 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    background-color: #F2B3BF;
+    line-height: 1.5;
+}
+
+h3 {
+    color: #F20505;
+}
+
+.nav {
+    height: 2rem;
+    font-size: 20px;
+    color: black;
+    padding: 1rem;   
+}
+
+.title {
+    background-color: #F20505;
+    display: inline;
+    color: #F2F2F2;
+    padding: 0 1rem;
+}
+
+.important-things {
+    background-color: #F2F2F2;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#japan-photo {
+    text-align: center;
+    width: 4rem;
+    height: 4rem;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: #F20505;
+}
